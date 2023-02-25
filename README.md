@@ -1,20 +1,10 @@
 
-# _> hello_world
+# ⚔ H3ll0.world ⚔
 
-Hi there, I'm Raveena. ⚔
-I think we have a lot of things in common!
-Look, us both know how to use github ((=
+Hi there, I'm Raveena, nice to meet you! 
+I'm `pirate` looking for freedom at the internet seas. 🏴‍☠️
 
-## ☠️ wh0.iam
-
-I'm just a `pirate` looking for freedom.
-
-## 💡 l34rn.ing
-
-I like a lot of cybersecurity. Actually i'm go backing to my studies of penetration test.
-Some of my repositories has some simple python tools for pentesting. Enjoy it!
-
-## 🖥️ sk1.lls[]
+## 🖥️ What my skills?
 
 I use to work with this topics below. But, like as just said above, I love cybersecurity and I have some hidden secrets that I just don't 'll cover here for now.
 
@@ -30,7 +20,13 @@ I use to work with this topics below. But, like as just said above, I love cyber
 - **Server Side Rendering**: ⭐⭐
 - **Wordpress**: ⭐⭐⭐
 
-## ⚽ h0bbi.es
+## 💡 What I'm learning?
+
+I like a lot of cybersecurity. Actually i'm go backing to my studies of penetration test.
+Some of my repositories has some simple python tools for pentesting. Enjoy it!
+
+
+## ⚽ On my free time, I like too...
 
 ❤️ There's some things that I love to...
 
@@ -38,9 +34,10 @@ I use to work with this topics below. But, like as just said above, I love cyber
 - 💃🎵 Move my body. All moviments are allowed! No judgment.
 - 🤸🧗 Climb some walls!
 - ✍🏼📝 Writing and teaching. Everything I learn is everything I pass on
+- 🖥️👩‍💻 Programming and discover another technologies and frameworks
 - 🧙🏽‍♀️🔮 And a lot of mystic stuff... 
 
-## 📨 c0nt4ct.me
+## 📨 If you want to contact me...
 
 You can find me in one of this ones (it's more likely to be on steam)
 
